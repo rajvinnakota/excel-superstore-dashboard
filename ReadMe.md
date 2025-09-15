@@ -9,13 +9,14 @@ The dashboard provides insights into **sales, profit, product performance, and r
 
 ## Project Structure
 
+```text
 excel-superstore-dashboard/
-│── Dashboard.xlsx # Only dashboard visible, data & pivots hidden
+│── Dashboard.xlsx           # Only dashboard visible, data & pivots hidden
 │── Dataset/
-│ ├── raw\_superstore.csv # Original Kaggle dataset
-│ └── cleaned\_superstore.csv # Cleaned dataset used in the dashboard
+│   ├── raw_superstore.csv   # Original Kaggle dataset
+│   └── cleaned_superstore.csv # Cleaned dataset used in the dashboard
 │── Screenshot/
-│ └── dashboard.png # Screenshot of the dashboard
+│   └── dashboard.png        # Screenshot of the dashboard
 │── README.md
 
 ---

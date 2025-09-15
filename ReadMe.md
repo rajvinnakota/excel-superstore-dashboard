@@ -53,7 +53,7 @@ excel-superstore-dashboard/
 
 ## Screenshot
 
-![Dashboard Screenshot](Screenshot/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
